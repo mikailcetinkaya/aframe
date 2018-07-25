@@ -8,6 +8,7 @@
     "deploy": "ghpages",
     "ghpages": "ghpages"
   },
+  "repository":"mikailcetinkaya@github.com:mikailcetinkaya/aframe.git",
   "devDependencies": {
     "budo": "^7.0.0",
     "ghpages": "0.0.3"
